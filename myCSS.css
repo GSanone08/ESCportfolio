@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+font: 100%/1.4 Optima, sans-serif;
 }
 a:link {
      color: #000000;
@@ -21,7 +21,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #65BCC2;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
