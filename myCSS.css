@@ -14,14 +14,14 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 }
 .homePage {
-	background: #FF8A8A;
+	background: #F56463;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #65BCC2;
+	background: #F0E74D;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -31,7 +31,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #FEF596;
+	background: #A9A9A7;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #59A1FF;
+	background: #A9A9A7;
 	margin: 0px;
 	float: left;
 	width: 100%;
