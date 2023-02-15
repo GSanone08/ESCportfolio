@@ -31,7 +31,7 @@ a:hover, a:active, a:focus {
 	
 }
 .nav {
-	background: #A9A9A7;
+	background: #F0E74D;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -40,14 +40,14 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #A9A9A7;
+	background: #9FF0C1;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: left;
 }
 .footer {
-	background: #777777;
+	background: #9FF0C1;
 	margin: 0px;
 	float: left;
 	width: 100%;
